@@ -1,3 +1,4 @@
 - Add Googe Account
 - Install Google Sync
+- Install Google Chrome
 - Install VSCode
