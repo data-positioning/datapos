@@ -7,4 +7,4 @@
 
 ### Tasks
 
-![Configure Laptop](./"Configure Laptop.md")
+![Configure Laptop]("./Configure Laptop.md")
