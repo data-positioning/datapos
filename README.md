@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # Datapos
 
 ## Partners/Vendors
@@ -59,7 +61,7 @@
 
 ### Project Dependencies
 
-![](https://datapos-resources.netlify.app/diagrams/Project%20Dependencies.svg "Project Dependencies")
+![](https://datapos-resources.netlify.app/diagrams/Project%20Dependencies.svg 'Project Dependencies')
 
 ### Tasks
 
