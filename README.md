@@ -1,5 +1,7 @@
 # Datapos
 
+A collection of Datapos top level project documentation and resources.
+
 ## Partners/Vendors
 
 ### Development
