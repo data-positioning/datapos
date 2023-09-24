@@ -1,27 +1,25 @@
-<base target="_blank">
-
 # Datapos
 
 ## Partners/Vendors
 
 ### Development
 
-| Name                                                            | Notes |
-| --------------------------------------------------------------- | ----- |
-| [Draw.io](https://app.diagrams.net/)                            |       |
-| <a href="https://app.diagrams.net/" target="_blank">Draw.io</a> |       |
-|                                                                 |       |
-|                                                                 |       |
-|                                                                 |       |
-|                                                                 |       |
-|                                                                 |       |
-|                                                                 |       |
-|                                                                 |       |
-|                                                                 |       |
-|                                                                 |       |
-|                                                                 |       |
-|                                                                 |       |
-|                                                                 |       |
+| Name                                 | Notes |
+| ------------------------------------ | ----- |
+| [Draw.io](https://app.diagrams.net/) |       |
+|                                      |       |
+|                                      |       |
+|                                      |       |
+|                                      |       |
+|                                      |       |
+|                                      |       |
+|                                      |       |
+|                                      |       |
+|                                      |       |
+|                                      |       |
+|                                      |       |
+|                                      |       |
+|                                      |       |
 
 ### Operations
 
