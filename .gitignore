@@ -1,4 +1,5 @@
 dist
 node_modules
+**/.*.drawio.bkp
 *.local
 **/.DS_Store
