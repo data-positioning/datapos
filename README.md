@@ -2,60 +2,28 @@
 
 A collection of Datapos top level project documentation and resources.
 
-## Partners/Vendors
+## Partners
 
-### Development
-
-| Name                                 | Notes |
-| ------------------------------------ | ----- |
-| [Draw.io](https://app.diagrams.net/) |       |
-|                                      |       |
-|                                      |       |
-|                                      |       |
-|                                      |       |
-|                                      |       |
-|                                      |       |
-|                                      |       |
-|                                      |       |
-|                                      |       |
-|                                      |       |
-|                                      |       |
-|                                      |       |
-|                                      |       |
-
-### Operations
+### Development/Operational Tools
 
 | Name                                                      | Notes |
 | --------------------------------------------------------- | ----- |
+| [Draw.io](https://app.diagrams.net/)                      |       |
 | [Netlify](https://app.netlify.com/teams/datapos/overview) |       |
 |                                                           |       |
 |                                                           |       |
-|                                                           |       |
-|                                                           |       |
-|                                                           |       |
-|                                                           |       |
-|                                                           |       |
-|                                                           |       |
-|                                                           |       |
-|                                                           |       |
-|                                                           |       |
-|                                                           |       |
-|                                                           |       |
 
-### Components/Dependencies
+### Development Components/Libraries
 
 | Name | Notes |
 | ---- | ----- |
 |      |       |
 |      |       |
-|      |       |
-|      |       |
-|      |       |
-|      |       |
-|      |       |
-|      |       |
-|      |       |
-|      |       |
+
+### Production Components/Libraries
+
+| Name | Notes |
+| ---- | ----- |
 |      |       |
 |      |       |
 
