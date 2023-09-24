@@ -1,0 +1,25 @@
+{
+    "name": "datapos",
+    "license": "ISC",
+    "private": true,
+    "version": "0.1.101",
+    "devDependencies": {
+        "@datapos/datapos-operations": "^0.1.338",
+        "prettier": "^3.0.3"
+    },
+    "scripts": {
+        "audit": "npm audit",
+        "build": "echo \"***** BUILD SCRIPT NOT IMPLEMENTED. *****\"",
+        "bumpVersion": "node -e \"require('@datapos/datapos-operations/scriptHelpers').bumpVersion()\"",
+        "check": "npx npm-check-updates && npm outdated",
+        "document": "npx npm-license-crawler --onlyDirectDependencies --production --relativeLicensePath --json LICENSES.json",
+        "format": "echo \"***** FORMAT SCRIPT NOT IMPLEMENTED. *****\"",
+        "lint": "echo \"***** LINT SCRIPT NOT IMPLEMENTED. *****\"",
+        "publishToNPM": "echo \"***** PUBLISH TO NPM SCRIPT NOT IMPLEMENTED. *****\"",
+        "release": "echo \"***** RELEASE SCRIPT NOT IMPLEMENTED. *****\"",
+        "syncWithGitHub": "npm run bumpVersion && node -e \"require('@datapos/datapos-operations/scriptHelpers').syncWithGitHub()\"",
+        "test": "echo \"***** TEST SCRIPT NOT IMPLEMENTED. *****\"",
+        "updateDependencies": "npm run updateOperations ",
+        "updateOperations": "npm install --save-dev @datapos/datapos-operations@latest"
+    }
+}
