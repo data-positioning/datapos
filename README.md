@@ -59,7 +59,7 @@
 
 ### Project Dependencies
 
-![](https://datapos-resources.netlify.app/diagrams/Project%20Dependencies.svg 'Project Dependencies')
+![](Project%20Dependencies.svg 'Project Dependencies')
 
 ### Tasks
 
